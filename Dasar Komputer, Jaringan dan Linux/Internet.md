@@ -1,0 +1,1 @@
+internet : jaringan komputer yang saling tersambung 
